@@ -3,7 +3,7 @@
 TesteLeituraTecladoInt
 
 
-Teste de leitura de dados do tipo Int (primitivo numérico) usando a classe Scanner em Java.
+Teste de leitura de dados do tipo int (primitivo numérico) usando a classe Scanner em Java.
 
 Código feito utilizando o IDE Intellij IDEA.
 
